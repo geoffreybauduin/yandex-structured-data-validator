@@ -1,0 +1,1 @@
+# yandex-structured-data-validator
